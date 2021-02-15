@@ -16,7 +16,7 @@ function paintIMG(IMG_NUMBER){
 }
 
 function genRandom(){
-    const number=Math.floor(Math.random()*10);
+    const number=Math.floor(Math.random()*8);
     return number;
 }
 function init(){
